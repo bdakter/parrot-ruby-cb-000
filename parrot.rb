@@ -2,4 +2,4 @@ def parrot(input="Squawk!")
   p "#{input}"
 
 end
-p parrot("sup")
+# p parrot("sup")
