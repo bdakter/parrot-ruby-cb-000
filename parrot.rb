@@ -1,5 +1,5 @@
 def parrot(input="Squawk!")
-  p "#{input}"
-
+  puts "#{input}"
+  return input
 end
 # p parrot("sup")
