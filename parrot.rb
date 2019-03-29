@@ -2,4 +2,4 @@ def parrot(*p)
   puts "#{p}"
 
 end
-p parrot()
+p parrot("hello")
